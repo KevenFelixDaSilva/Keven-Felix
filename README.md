@@ -1,10 +1,8 @@
 <h1>Olá! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keven-felix-04832a249/))](https://www.linkedin.com/in/keven-felix-04832a249/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://portfolio-pessoal-keven.netlify.app/)](https://portfolio-pessoal-keven.netlify.app/)
-[![Gmail Badge](https://img.shields.io/badge/-keven.05@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keven.05@hotmail.com)](mailto:keven.05@hotmail.com)
-
-<img align="right" alt="Coding image" src="./Coding.png"  width="300px"/>
+![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin)
+![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## Meu nome é Keven Felix
 (.Net Core| Asp.Net | Azure | Node.js | Docker | Sql Server | Javascript | HTML | CSS ) 🚀
@@ -14,4 +12,10 @@
 - 💡 Pronto para novos desafios
 
 <div align="left">
+</div>
+<br>
+<div align="left">
+  <a href="https://github.com/KevenFelixDaSilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevenFelixDaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenFelixDaSilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
